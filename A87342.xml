@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartiall narration of the management of the late Kentish petition.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87342</idno>
+            <idno type="STC">Wing I87</idno>
+            <idno type="STC">Thomason E453_37</idno>
+            <idno type="STC">ESTC R204956</idno>
+            <idno type="EEBO-CITATION">99864404</idno>
+            <idno type="PROQUEST">99864404</idno>
+            <idno type="VID">162000</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162000)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartiall narration of the management of the late Kentish petition.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162000:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>
+               <hi>AN</hi> IMPARTIALL NARRATION OF THE MANAGEMENT <hi>OF THE LATE</hi> KENTISH PETITION.</p>
+            <p>
+               <date>
+                  <add>July 21</add>
+               </date> 
+               <hi>LONDON.</hi> Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162000:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb n="1" facs="tcp:162000:2"/>
+            <!-- PDF PAGE 98 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL lY PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>AN</hi> Jmpartial Narration of the Manage<g ref="char:EOLhyphen"/>ment of the late <hi>Kentiſh Petition.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough the late <hi>Kentiſh</hi> Petition failed in its main aim and intent which was Peace, yet be<g ref="char:EOLhyphen"/>cauſe it procured ſtrange conſequences in re<g ref="char:EOLhyphen"/>ference to the whole Kingdome, and there hath been raiſed many and ſeveral reports of the Management of that affaire in the carry<g ref="char:EOLhyphen"/>ing on of their juſt Petition (which way of Addreſſe is undoubtedly the Birthright of the Subjects of Eng<g ref="char:EOLhyphen"/>land, and once loſt, muſt be ſucceeded with ſlavery and Tyranny, both hateful to the Engliſh nation;) I ſhall faithfully and impar<g ref="char:EOLhyphen"/>tially relate the beginning, progreſſe, and concluſion of that af<g ref="char:EOLhyphen"/>faire as far as I know, or from credible perſons could learn the particulars thereof.</p>
+            <p>Firſt, that it was the intent of the Countrey to carry up that Petition without Armes, or the leaſt war-like appearance, is No<g ref="char:EOLhyphen"/>toriouſly known to all that know any thing in that buſineſſe, and the peaceable entrance of the Petitioners into that action: But that which cauſed them to appear in that war-like poſture, was the Printed Declaration with moſt of the <hi>Deputy-Lieutenants</hi> hands to them commanded to be read in Churches throughout the whole County, calling the petitions Seditious Papers, which tended to the raiſing ſeditions and tumults within the ſaid Coun<g ref="char:EOLhyphen"/>ty,
+<pb n="2" facs="tcp:162000:3"/>
+               <!-- PDF PAGE 99 -->and the indeavouring the promoting thereof Seditious practi<g ref="char:EOLhyphen"/>ſes; the leaſt of which was moſt contrary to their thoughts, who aym'd at nothing more then to preſerve their and the whole Kingdoms Birth-right, in preſenting their juſt deſires in a moſt peaceable and uſual manner; had not the afore-ſaid Declarations with other ſcattered expreſſions by ſome in Authority, of hang<g ref="char:EOLhyphen"/>ing ſome in every pariſh that durſt adventure to go up with the Petition; And the raiſiing of ſeveral Troops of Horſe (which upon good grounds was conceived) to make good thoſe decla<g ref="char:EOLhyphen"/>rations and expreſſions (not again to be exampled by any Com<g ref="char:EOLhyphen"/>mittee in the Kingdome) cauſed the extreamly and juſtly agrie<g ref="char:EOLhyphen"/>ved and incenſed Petitioners to take up Armes for their own de<g ref="char:EOLhyphen"/>fence and preſervation of themſelves from the ſad and bloudy example of their next neighbours the <hi>Surrey-men;</hi> ſo freſhly bleeding in their memories: Thus far for their taking up Arms; Next for the progreſſe of the Petitioners in purſuance of their Petition; They met together upon <hi>Boxley-Heath</hi> on Tuſeday <hi>May</hi> the thirtieth, intending the ſame day for <hi>Black-Heath,</hi> and ten Gentlemen with ten Yeomen to have gone from thence with the Petition to the <hi>Parliament,</hi> in the behalf of all the reſt: But an Order comming from both Houſes at that inſtant to them, that the Houſes would receive none of their Petition, but had referred it and them to the <hi>Lord Generall Fairfax,</hi> who was at that very inſtant (ſtrange and unexpected to them) drawn up at <hi>Black-Heath</hi> in a War-like poſture with about four thouſand Horſe and Foot with other forces on their March for his recruit; It was thought fit to apply themſelves to the <hi>General</hi> for his me<g ref="char:EOLhyphen"/>diation to the Houſes that their Petition might be received; which he refuſed to do, and chuſing the contrary to purſue them as Rebels: And the <hi>Kentiſh</hi> Forces not being compleat in their <hi>Field-Officers</hi> and others, and ſome other accomodations neceſ<g ref="char:EOLhyphen"/>ſary, which in ſo ſhort time could not be put into ſo fitting an equipage as was required for an Army, forced preſently to fight, concluded forthwith to retreat their unmembred body within the River of <hi>Med-way;</hi> which accordingly they did, for its more ſafe modelizing, and their ſtanding on their juſt defence: But the <hi>General</hi> finding them in green Councel, and knowing his own advantage in timely purſuing them, before they were regu<g ref="char:EOLhyphen"/>lated,
+<pb n="3" facs="tcp:162000:3"/>
+               <!-- PDF PAGE 99 -->neglects no time but follows them to <hi>Maidſtone, Alsford, Traſum,</hi> and <hi>Farley-bridge,</hi> the chief paſſes of thoſe parts; which being kept by too ſmall Parties, for the encountring with the <hi>Generals</hi> old Soldiers: On Thurſday night following, he fell to ſtorming of <hi>Maidſtone,</hi> which was ſo wel maintain'd by part of a Regiment of <hi>Trained-bands</hi> (who made it good) that diverſe times they repulſed the Enemy out of the Town to their great loſſe; and diſputed it with them at leaſt ſix hours, exſpecting re<g ref="char:EOLhyphen"/>lief from <hi>General Goring,</hi> who had newly received that Title from the Gentlemen then at <hi>Rocheſter,</hi> where the main body of the <hi>Kentiſh</hi> Army then lay; but <hi>General Goring</hi> either conceiving it too late, or having ſome other deſigne which was conceived of more moment (I know not) marching the next day the other way to <hi>Black-Heath,</hi> and from thence croſſing the water into <hi>Eſſex,</hi> and ſending no relief to thoſe poor men, (which by their enemies own confeſſion did ſo gallantly conſidering their num<g ref="char:EOLhyphen"/>ber and condition) they were forced at laſt, being over-powr'd with Horſe and Foot all at one time, to ſubmit themſelves priſo<g ref="char:EOLhyphen"/>ners, and ſurrender the Town to the mercy of the Enemy; which in all likelihood had been made good and defended from all the power and ſtrength of the Adverſe party, had but one fourth part of the body then at <hi>Rocheſter</hi> marched to their relief: And after all this diaſter, had but the whole body advanced down to the Town, they had in all probability recovered it, redeemed their Priſoners, and made good that place againſt any viſible power of the enemies; by reaſon of which advancing of their new <hi>General</hi> the contrary way, the <hi>Kentiſh</hi> Gentry and Soldiers were ſo diſcontented that they might not March to the reſcue of their friends, (and not knowing the <hi>Generals</hi> deſigne for ſuch actions of his) as that diverſe of them on a ſuddain diſperſed eve<g ref="char:EOLhyphen"/>ry way to ſhift for themſelves, crying out they were betrayed; ſo that the <hi>General</hi> carryed not over into <hi>Eſſex</hi> above fifteen hun<g ref="char:EOLhyphen"/>dred of all their forces; the reſt ſcattered, except twelve hundred Horſe and Foot, who retreated to <hi>Canterbury</hi> to make good that place, the three Caſtles of <hi>Sandown, Deal,</hi> and <hi>Weymor;</hi> and the Town of <hi>Sandwich,</hi> but for want of men, Ammunition; and Proviſion to make good all, leaving the three Caſtles well man'd and provided, <hi>Sandwich</hi> beſides the wanting of Fortfications
+<pb n="4" facs="tcp:162000:4"/>
+               <!-- PDF PAGE 100 -->and proviſions, being very averſe to a concurrence with the County, in reſpect of a great part of the Town within, by reaſon of the faction of the people, which was much increaſed by the ſetting up of an impoſtor and counterfeit Prince; ſo that many families muſt of neceſſity have been expulſed the Town, or ſe<g ref="char:EOLhyphen"/>cured; and would have required longer time, and the greateſt part of the Forces then in Armes, before it could be made teneable; and <hi>Canterbury</hi> being then the ſeat of the whole Acti<g ref="char:EOLhyphen"/>on, which muſt have been left with all the Countrey thereabout by this enterprize to the mercy and ſpoil of the Enemy) they were forced to make one body of all their numbers within <hi>Canterbury,</hi> there reſolving to try their fortunes; to which place the <hi>Generall</hi> made with all his ſtrength he had in that County, which was about four thouſand Horſe and Foot viz. <hi>Colonell Ri<g ref="char:EOLhyphen"/>ches,</hi> and <hi>Colonell Hewſons</hi> Regiments of Horſe and Foot ſent to relieve <hi>Dover-Caſtle,</hi> and after that, he had Command to make good the Eaſt ſide of the Town; and then <hi>Comiſſary Ireton's</hi> Regi<g ref="char:EOLhyphen"/>ment of Horſe, and ſome other broken Regiments of Horſe, with <hi>Colonell Baxſters</hi> Regiment of Foot, and part of other bro<g ref="char:EOLhyphen"/>ken Regiments of Foot, (which in all made up the aforeſaid numbers of the <hi>General's</hi> Forces) beſide ſome Additionall Forces the <hi>Deputy-Lieutenants</hi> of the County had by this time got to<g ref="char:EOLhyphen"/>gether and were in their daily increaſe; all which were deſigned for the reducing of <hi>Canterbury,</hi> and were within two hours March of the ſame on the Weſt ſide: And therefore to ſpeak a little in Vindication of thoſe Gentlemen who there Acted, be<g ref="char:EOLhyphen"/>cauſe I have heard ſeverall &amp; ſome falſe reports of their procee<g ref="char:EOLhyphen"/>dings; as that they ſurrendred the Town to fifteen hundred, when three thouſand were in it; which is very falſe; for their Enemies numbers it is moſt certain, themſelves confeſſing it; into their numbers muſt be reckoned women and children to make up the ſum of three thouſand, for they had not above thirteen hundred fighting men when the Enemy came nigh, and they continually leſſening by the running away of the Soldiers; and many that ſtayed, began to grow diſcontented for want of pay, and the Town neither teneable nor provided with victuals; for laſt <hi>Chriſtmas-Gamboll</hi> had burnt up their gates, and made diverſe breaches in their wals which were not yet re-edyfyed; and no
+<pb n="5" facs="tcp:162000:4"/>
+               <!-- PDF PAGE 100 -->hopes of relief from their <hi>Generall</hi> my Lord of <hi>Norwich,</hi> (who was at that inſtant in <hi>Eſſex,</hi> and neceſſitated to provide for him<g ref="char:EOLhyphen"/>ſelf) nor from any others that might timely do it. It is true in<g ref="char:EOLhyphen"/>deed, fifteen hundred only of the Enemies Forces entred the Town, the moſt of the Forces after the Articles agreed on, being Commanded ſeverall waies, the greateſt part into <hi>Eſſex,</hi> the reſt to <hi>Sandwich,</hi> and to make good their ſiege againſt <hi>Weymor-Ca<g ref="char:EOLhyphen"/>ſtle:</hi> So that all theſe things truly conſidered, that the Petition being onely for peace, and the raiſing of Armes only for their juſt defence in the delivering thereof; and no thoughts then of a ſet<g ref="char:EOLhyphen"/>led or continued war, till all the Forces Raiſed by the <hi>Kentiſh</hi> Gentlemen were thus ſcattered and diſperſed, which was then certainly too late to think upon, in that their Enemies Forces were then ſo neer them, all relief ſo far from them, the Town, by reaſon of its former defects ſo untenable, and by reaſon of its compaſſe requiring ſo many to guard it, and their own Forces ſo unproportionably few to defend it, their money and proviſion ſpent, ſo that upon neceſſity they muſt maintain the Soldiers upon plundring the proviſion of the Town; which, was too ſo ſcant, as was not able to maintain ſo many perſons but a very little while, and the Countrey not ready to bring in any more; the rich booty in it beſide, which would have been an incourage<g ref="char:EOLhyphen"/>ment to their Soldiary, a diſcouragement to the other, eſpecially the Town Forces; whoſe whole eſtates were moſt in danger: So that theſe things thus certainly ſtanding, in my opinion you will find that thoſe Gentlemen who there acted, did as much as poſ<g ref="char:EOLhyphen"/>ſibly in them lay for their Countreyes and their own defence as long as there was any hope of life in that action, and ſtayed it out to the laſt when others deſerted it, and perhaps hereby in a Condition rather to take then to make, Articles: To which (though much prejudiciall to themſelves and their own bene<g ref="char:EOLhyphen"/>fit) yet out of the deep ſence and feeling of that Rapine and ſpoile which would inevitably have fallen upon Rich and poor without exception by the Army, they were now willing to a<g ref="char:EOLhyphen"/>gree that they might (though 'twere through their own loſſe) preſerve the Town.</p>
+            <p>The Yeomanry, and poor Labourers from further plundring
+<pb n="6" facs="tcp:162000:5"/>
+               <!-- PDF PAGE 101 -->which muſt of neceſſity have enſued, and yet the iſſue and con<g ref="char:EOLhyphen"/>cluſion of their beſt advantages in that Condition they were in within a very ſhort time in all humane probability muſt have proved ſucceſleſſe and fruitleſſe. And this I am aſſured, by the ſtrict enquiry I have made into that affair is the whole truth of it, ſo as I much wonder to hear ſuch Calumny raiſed by ſtrangers, and eſpecially by ſome of their own members, tending to the diſ<g ref="char:EOLhyphen"/>paragement of thoſe Gentlemen, and diſ-uniting the Gentry of the County in affection not to be cemented again, in all likely<g ref="char:EOLhyphen"/>hood for any Future action of the like nature.</p>
+            <trailer>FINIS.</trailer>
+            <pb n="6" facs="tcp:162000:6"/>
+            <!-- PDF PAGE 102 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
